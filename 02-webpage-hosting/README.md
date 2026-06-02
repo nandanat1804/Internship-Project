@@ -1,3 +1,12 @@
 # Day 2 - Webpage Hosting
 
-Hosted a webpage using GitHub Pages.
+## Objective
+Learn webpage hosting using GitHub.
+
+## Tasks Completed
+- Created webpage
+- Hosted webpage
+- Verified deployment
+
+## Outcome
+Successfully hosted webpage online.
